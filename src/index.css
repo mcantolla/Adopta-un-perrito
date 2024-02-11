@@ -1,0 +1,17 @@
+#root {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+h1 {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+h6 {
+    display: flex;
+    justify-content: end;
+}
